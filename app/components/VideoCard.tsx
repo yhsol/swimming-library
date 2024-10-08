@@ -28,7 +28,7 @@ const InstagramEmbed = ({ video }: { video: Video }) => {
 
 export const VideoCard = ({ video }: { video: Video }) => {
   const videoUrl = `https://www.youtube.com/embed/${video.id}`;
-  const thumbnailUrl = `https://img.youtube.com/vi/${video.id}/hqdefault.jpg`;
+  // const thumbnailUrl = `https://img.youtube.com/vi/${video.id}/hqdefault.jpg`;
 
   if (video.platform === "youtube") {
     return (
