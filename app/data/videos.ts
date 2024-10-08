@@ -82,6 +82,10 @@ export const butterflyVideos = [
     platform: "youtube",
   },
   {
+    id: "aeNq-r3rFAM",
+    platform: "youtube",
+  },
+  {
     id: "gZtrVE4vMkw",
     platform: "youtube",
   },
@@ -95,6 +99,14 @@ export const butterflyVideos = [
   },
   {
     id: "3_3IMPH4Dx0",
+    platform: "youtube",
+  },
+  {
+    id: "Lr_A6micZCk",
+    platform: "youtube",
+  },
+  {
+    id: "48pUCmP_xd8",
     platform: "youtube",
   },
   {
