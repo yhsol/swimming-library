@@ -4,6 +4,9 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Swimming Library",
   description: "Swimming Library",
+  icons: {
+    icon: "/favicon.ico",
+  },
 };
 
 export default function RootLayout({
