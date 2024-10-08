@@ -33,6 +33,12 @@ export default function SwimmingStylesPage() {
         >
           Breaststroke
         </a>
+        <a
+          href="/swimming-styles/etc"
+          className="w-full sm:w-auto px-6 py-3 text-lg font-medium text-black bg-gray-100 rounded-md hover:bg-gray-200 transition-colors"
+        >
+          Etc
+        </a>
       </div>
     </div>
   );
